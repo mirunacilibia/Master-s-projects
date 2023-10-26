@@ -1,0 +1,13 @@
+[
+    [
+        { "type": "Blur", "number1": "", "number2":"", "color": "" }
+    ],
+    [
+        { "type": "Sharpen", "number1": "", "number2":"", "color": "" },
+        { "type": "Tint", "number1": "60", "number2":"", "color": "Green" },
+        { "type": "Rotate", "number1": "180", "number2":"", "color": "" },
+        { "type": "Translate", "number1": "20", "number2":"20", "color": "" },
+        { "type": "Flip", "number1": "1", "number2":"", "color": "Green" },
+        { "type": "Blur", "number1": "", "number2":"", "color": "" }
+    ]
+]
